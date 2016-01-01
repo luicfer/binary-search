@@ -1,0 +1,31 @@
+{
+  "name": "binary-search-curryed",
+  "version": "1.0.1",
+  "description": "This is a really tiny, curryed, simple binary search library for Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luicfer/binary-search.git"
+  },
+  "keywords": [
+    "binary-search",
+    "binarysearch",
+    "curryed"
+  ],
+  "author": "luicfer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luicfer/binary-search/issues"
+  },
+  "homepage": "https://github.com/luicfer/binary-search#readme",
+  "dependencies": {
+    "ramda": "^0.19.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "should": "^8.0.2"
+  }
+}
